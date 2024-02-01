@@ -24,4 +24,6 @@ palindromic seq 찾기.ipynb
 240125.ipynb
 : 정수 k를 입력하면 가능한 모든 k-mer의 DNA 서열을 출력하는 프로그램입니다. 
 
+240201.ipynb
+: Mortal Fibonacci Rabbits 문제에 대한 풀이입니다.
 
