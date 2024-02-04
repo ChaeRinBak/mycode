@@ -27,3 +27,11 @@ palindromic seq 찾기.ipynb
 240201.ipynb
 : Mortal Fibonacci Rabbits 문제에 대한 풀이입니다.
 
+240202.ipynb
+: Finding a Motif in DNA 문제에 대한 풀이입니다. motif가 나타나는 인덱스를 표시합니다.
+
+240203.ipynb
+: Consensus and Profile 문제에 대한 풀이입니다. profile matrix를 제작해 consensus 서열을 출력합니다.
+
+240204.ipynb
+: Overlap Graphs 문제에 대한 풀이입니다. directed overlap graph를 제작하여 (tail, head) 순서대로 node를 출력합니다.
