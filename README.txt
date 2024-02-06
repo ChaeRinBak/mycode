@@ -35,3 +35,9 @@ palindromic seq 찾기.ipynb
 
 240204.ipynb
 : Overlap Graphs 문제에 대한 풀이입니다. directed overlap graph를 제작하여 (tail, head) 순서대로 node를 출력합니다.
+
+240205.ipynb
+: Calculating Expected Offspring 문제에 대한 풀이입니다.
+
+240206.ipynb
+: Finding a Shared Motif 문제를 풀고 있습니다. 예제에 대해서는 적용에 성공했지만, 5중 for문을 사용하여 데이터가 큰 경우 문제를 5분 내에 풀 수가 없었습니다. time complexity를 낮출 방법을 고민 중입니다.
