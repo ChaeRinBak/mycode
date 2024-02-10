@@ -41,3 +41,6 @@ palindromic seq 찾기.ipynb
 
 240206.ipynb
 : Finding a Shared Motif 문제를 풀고 있습니다. 주어진 서열들 속에서 가장 길이가 긴 common substring을 찾는 문제입니다. 예제에 대해서는 적용에 성공했지만, 5중 for문을 사용하여 데이터가 큰 경우 문제를 5분 내에 풀 수가 없었습니다. time complexity를 낮출 방법을 고민 중입니다.
+
+240210_after hints.ipynb
+: Finding a Shared Motif 문제에 대한 풀이입니다. 2월 6일자 풀이에서는 직접 모든 서열을 비교해서 common substring을 찾으려 했습니다. common substring은 fasta 데이터 하나에도 존재한다는 힌트를 통해, 첫 번째 fasta 데이터를 잘게 쪼개서 다른 fasta 데이터에 포함되는지를 비교해 가장 긴 common substring을 찾았습니다.
