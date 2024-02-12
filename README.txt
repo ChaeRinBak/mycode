@@ -44,3 +44,9 @@ palindromic seq 찾기.ipynb
 
 240210_after hints.ipynb
 : Finding a Shared Motif 문제에 대한 풀이입니다. 2월 6일자 풀이에서는 직접 모든 서열을 비교해서 common substring을 찾으려 했습니다. common substring은 fasta 데이터 하나에도 존재한다는 힌트를 통해, 첫 번째 fasta 데이터를 잘게 쪼개서 다른 fasta 데이터에 포함되는지를 비교해 가장 긴 common substring을 찾았습니다.
+
+240211.ipynb
+: Calculating Protein Mass 문제에 대한 풀이입니다.
+
+240212.ipynb
+: Open Reading Frames 문제에 대한 풀이입니다. 리스트에 orf가 시작되는 인덱스와 끝나는 인덱스를 저장해 각 orf에 대해 번역하는 프로그램입니다.
